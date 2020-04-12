@@ -1,8 +1,8 @@
 # InsideEarth
 
-Knowledge base for Earth2150, brought to you by InsideEarth.
+Knowledge base for Earth2160, brought to you by InsideEarth.
 
-![Earth2150 Logo](images/Earth_2150_Logo.png)
+![Earth2160 Logo](images/E2160_Header.png)
 
 Created by [Animal](https://www.youtube.com/channel/UCiVBYjeLsPCwPLI1GiSKBfw)
 
